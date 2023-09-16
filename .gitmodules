@@ -1,0 +1,3 @@
+[submodule "LabOOJava"]
+	path = LabOOJava
+	url = https://github.com/tlcdio/LabOOJava.git
